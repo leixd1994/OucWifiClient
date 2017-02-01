@@ -13,7 +13,7 @@ import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
-
+//Version 2
 public class MainActivity extends AppCompatActivity {
     WebView webView;
     Button button;
